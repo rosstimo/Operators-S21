@@ -12,6 +12,8 @@
 
         Console.WriteLine(5 ^ 5)
 
+        Console.WriteLine("hello" & "World")
+
 
         Console.ReadLine()
 
