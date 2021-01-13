@@ -10,6 +10,9 @@
         Console.WriteLine(1 \ 2)        'Integer
         Console.WriteLine(9.8 Mod 3)    'division returns only the remainder
 
+        Console.WriteLine(5 ^ 5)
+
+
         Console.ReadLine()
 
     End Sub
